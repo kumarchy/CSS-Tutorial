@@ -1,0 +1,43 @@
+#demo1
+{
+    text-align: center;
+    color: red;
+    font-family: verdana;
+    font-size: 25px;
+    margin:0 auto;
+    box-shadow: 0px 0px 10px 2px;
+    width: 400px;
+    height: auto;
+}
+.demo_class1
+{
+    text-align: center;
+    color:aqua;
+    border-style: dotted;
+
+}
+.demo_class2
+{
+    color: blue;
+    border-style: dotted;
+    text-align: center;
+}
+.top
+{
+    background-color: blue;
+    color: white;
+    font-size: 40px;
+}
+.middle
+{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+
+}
+.bottom
+{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+}

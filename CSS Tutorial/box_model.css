@@ -1,0 +1,52 @@
+/* p{
+    
+    border-style: solid;
+    border-color: blue;
+    border-width: 20px 20px;
+    border-radius: 30%;
+} */
+
+
+/* next */
+/* content edge
+margin edge
+padding edge
+border edge. */
+
+/* 
+p{
+    color: green;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 30px;
+    /* padding-top: 20px;
+    padding-bottom: 30px;
+    padding-right: 10px;
+    padding-left: 10px; */
+ /* } */ 
+
+ /* next */
+
+ p{
+    border: 5px dotted rgb(145,77,89);   /*border edge*/
+    border-radius: 10%;
+
+    padding-top: 20px;       /*padding edge*/
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    /* margin-bottom: 30px;    /*margin edge*/
+    
+    margin-top: 30px; 
+    margin: 50px;
+
+   width: 100%;
+   height: 100%;
+    /* or */
+
+    /* border-width: 2px;
+    border-radius: 10%;
+    border-color: rgb(145,77,89);
+    border-style: dotted; */
+ }
